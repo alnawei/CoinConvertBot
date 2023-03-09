@@ -310,8 +310,6 @@ USDT： <b>{USDT}</b>
 当前支持兑换以下币种：
 <code>USDT-TRC20 --> TRX</code>
 
-本机器人为<a href='https://github.com/LightCountry'>LightCountry</a>旗下开源机器人！
-项目地址：<a href='https://github.com/LightCountry/CoinConvertBot'>Telegram.CoinConvertBot</a>
 
 如有需要，请联系管理员： {AdminUserUrl}
 ";
